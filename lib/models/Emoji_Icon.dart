@@ -23,7 +23,7 @@ class EmojiIcon extends StatelessWidget {
           ),
         ),
         SizedBox(
-          height: 18,
+          height: 13,
         ),
         Text(
           subtext,
